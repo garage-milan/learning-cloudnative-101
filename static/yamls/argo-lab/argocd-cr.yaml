@@ -5,4 +5,5 @@ metadata:
   namespace: argocd
 spec:
   server:
-    route: true
+    route:
+      enabled: true
